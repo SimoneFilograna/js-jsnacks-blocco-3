@@ -1,4 +1,4 @@
-const userNumber = parseInt(prompt("Inseri qui un il tuo numero fortunato"))
+const userNumber = parseInt(prompt("Inseri qui il tuo numero fortunato"))
 
 for(let i= 0; i < userNumber; i++){
     const numberList = []
